@@ -1,0 +1,27 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "5jk13ZCJPKt",
+  "title": "Football Field",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "61DDk3ZstgX",
+      "title": "Football Field",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
